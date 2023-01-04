@@ -1,0 +1,8 @@
+export default {
+  root: true,
+  parser: "@babel/eslint-parser",
+  parserOptions: {
+    sourceType: "module",
+  },
+  extends: ["@nuxtjs"],
+};
