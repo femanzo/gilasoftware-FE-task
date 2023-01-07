@@ -1,5 +1,3 @@
-import presetWebFonts from "@unocss/preset-web-fonts";
-
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr: false,

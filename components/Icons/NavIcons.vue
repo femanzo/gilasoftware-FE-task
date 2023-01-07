@@ -1,6 +1,5 @@
 <template>
   <Icons-HomeIcon class="nav-icon" v-if="name === '/'" />
-  <Icons-ContractsIcon class="nav-icon" v-else-if="name === '/contracts'" />
 </template>
 
 <script setup>

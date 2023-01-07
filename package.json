@@ -1,8 +1,10 @@
 {
+  "name": "gilasoftware_fe_task",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --port 3000",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
